@@ -1138,7 +1138,7 @@ window.pkp = {
 		'user.affiliations.primaryLocaleRequired':
 			'The primary language {$primaryLocale} is required',
 		'user.affiliations.searchPhraseLabel':
-			'Type the institute name in {$language}',
+			'Type the institution name in {$language}',
 		'user.affiliations.translation': 'More information',
 		'user.affiliations.translationActionsAriaLabel': 'Click to edit or delete',
 		'user.affiliations.translationDeleteActionLabel': 'Remove institution',
